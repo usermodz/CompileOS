@@ -7,6 +7,12 @@ toolbelt for any modern coding workflow.
 ## Visual
 A refined, professional gray aesthetic optimized for long coding sessions. Made to be clean and simple, with no distractions.
 
+<img width="1277" height="803" alt="image" src="https://github.com/user-attachments/assets/3bf152cd-5b43-4ccf-8fe2-26af3d4cc42c" />
+
+<img width="1277" height="803" alt="image" src="https://github.com/user-attachments/assets/b7cda71f-7b0f-4ae0-bb86-a0f99a928e18" />
+
+<img width="1277" height="803" alt="image" src="https://github.com/user-attachments/assets/abce155e-b0cb-4eec-aee7-4c67a1f47224" />
+
 ## Toolbelt
 Forget about long setup scripts, Compile OS already did most of the work for you.
 
